@@ -1,1 +1,1 @@
-# 8x8-SankeGame-For-8051-LearningKit
+# 8x8-SnakeGame-For-8051-LearningKit
